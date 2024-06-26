@@ -1,0 +1,27 @@
+{
+  "editor.insertSpaces": true,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.rulers": [80],
+  "editor.minimap.autohide": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "cSpell.language": "es,en-GB,lorem,en-US,es-ES,en",
+  "cSpell.ignorePaths": [],
+  "cSpell.enableFiletypes": ["*"],
+  "cSpell.words": [],
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[dotenv]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  }
+}
